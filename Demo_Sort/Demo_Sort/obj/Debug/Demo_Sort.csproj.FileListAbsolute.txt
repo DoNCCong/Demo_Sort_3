@@ -1,0 +1,9 @@
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.exe
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\bin\Debug\Demo_Sort.pdb
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.csprojAssemblyReference.cache
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.Properties.Resources.resources
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.csproj.GenerateResource.cache
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.exe
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.pdb
+E:\Hoc_Tap\2. HOCKI I NAM 2022-2023\Lập trình hướng đối tượng\DOAn\Demo_Sort\Demo_Sort\obj\Debug\Demo_Sort.DoAn.resources
